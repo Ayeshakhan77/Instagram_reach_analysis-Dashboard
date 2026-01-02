@@ -1,11 +1,5 @@
 # 📊 Instagram Reach Analytics Dashboard (Power BI)
 
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="" alt="Instagram Reach Dashboard" width="800">
-</p>
-
 
 ## 📌 Project Overview
 This project showcases a **one-page Power BI dashboard** built to analyze **Instagram post reach and user interactions** using a cleaned analytics dataset.  
